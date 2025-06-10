@@ -48,6 +48,6 @@ Option 2 is selected and module called maxFinder.v is used to find the highest v
 
 The results, which are not exhaustive, are shown in the picture below. 
 <div align="center">
-    <img src="9_Hardware_validation/HWValidation_pic1.jpg" alt="Cant find image" />
+    <img src="HWValidation_pic1.jpg" alt="Cant find image" />
 </div>
-<p align="center"><em>Figure 1: The output </em></p>
+<p align="center"><em>Figure 1: The output of 2 layer ANN on the Zedboard</em></p>
